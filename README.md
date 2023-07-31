@@ -1,6 +1,7 @@
 # messanger_app
 
-A new Flutter project.
+This is a live Chatting App, In this a user can chat with another user with secured messaging and authorised with login id and password.
+I have use firebase authorization for securty and Firebase cloud for live chatting.
 
 ## Getting Started
 
